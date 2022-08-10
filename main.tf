@@ -48,7 +48,3 @@ tags = {
     Name = "example-apprunner-service"
   }
 }
-
-#   tags = {
-#     NAME = "N712921"
-#   }
